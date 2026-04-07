@@ -52,11 +52,10 @@ I developed several custom measures to track time-intelligence and portfolio per
 ---
 
 ## **Dashboard Preview**
-*(Note: Upload your screenshots to a folder named 'Screenshots' in this repo to display them here)*
 
 ![Summary Page](screenshots/01-summary-view.png)
-![Overview Page](screenshots/overview_page.png)
-![Details Page](screenshots/details_page.png)
+![Overview Page](screenshots/02-overview-view.png)
+![Details Page](screenshots/03-details-view.png)
 
 ---
 
